@@ -32,6 +32,6 @@ https://github.com/tejuu8601/portfolio
 * HTML
 * CSS
 
-## Author 1
+## Author 
 
 Tejaswi
